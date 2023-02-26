@@ -14,6 +14,7 @@
 
 ### Java
 - [Lotto Simulation](./Java/Lotto/)
+- [Basball Game](./Java/Baseball/)
 
 <hr>
 
