@@ -14,10 +14,11 @@
 
 ### Java
 - [Lotto Simulation](./Java/Lotto/)
-- [Basball Game](./Java/Baseball/)
+- [Baseball Game](./Java/Baseball/)
 
 <hr>
 
 ### Python
 - [Lotto Simulation](./Python/Lotto.py)
-- [Basball Game](./Python/Baseball.py)
+- [Baseball Game](./Python/Baseball.py)
+- [Blackjack](./Python/Blackjack.py)
