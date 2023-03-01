@@ -12,11 +12,13 @@
 - 꾸준히 리팩토링을 한다.
 - 완성한 프로젝트는 [블로그](https://velog.io/@kmseunh)에 간단하게 정리한다.
 
+<hr>
+
 ### Java
 - [Lotto Simulation](./Java/Lotto/)
 - [Baseball Game](./Java/Baseball/)
 
-<hr>
+<br>
 
 ### Python
 - [Lotto Simulation](./Python/Lotto.py)
